@@ -1,0 +1,42 @@
+footer{
+    background-image: url(IMAGENS/TEXTURAS/tipos-de-madeira.jpg);
+    height: 110px;
+}
+footer ul{
+    list-style: none;
+    height: 50px;
+    display: flex;
+
+}
+
+footer ul li a{
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+    margin-right: 75px;
+      
+}
+.footer span{
+    color:black;
+    font-size: 15px;    
+}
+.f:hover{
+    transition-delay: 0.3s;
+    color: #105bb2;
+}
+.t:hover{
+   transition-delay: 0.3s;
+    color: #27c5fa; 
+}
+.i:hover{
+   transition-delay: 0.3s;
+   color: rgba(183, 76, 167, 0.81);
+}
+.w:hover{
+   transition-delay: 0.3s;
+    color: #00d341; 
+}
+.s:hover{
+   transition-delay: 0.3s;
+    color: #123300; 
+}

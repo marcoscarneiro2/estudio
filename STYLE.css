@@ -1,0 +1,1192 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 800px;
+    
+}
+
+.total{
+height: 900px;
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+}
+.totalRS{
+height: 668px;
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+
+}
+
+
+.totalLog{
+height: 969px;
+background-image: url(IMAGENS/TEXTURAS/mad.jpg);
+width: 100%;
+background-attachment: fixed;
+
+}
+
+.totalMusica{
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+    
+height: 1100px;
+}
+
+.totalCadastro{
+ background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+height: 700px;
+}
+.totalaltera{
+height: 720px;
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed; 
+}
+
+.totalFoto{
+text-align: center;    
+height: 800px;
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+width: 100%;    
+margin-top:;    
+}
+.totalContato{
+ background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+height: 1000px;   
+}
+.totalEstudio{
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+height: 1300px;   
+}
+.bory{
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);    
+background-attachment: fixed;
+height: 1100px;    
+}
+.totalevento{
+height: 800px;
+}
+#evento{
+display: flex;
+}
+
+.totalservico{
+background-image: url(IMAGENS/TEXTURAS/texpr.jpg);
+background-attachment: fixed;
+height:auto;
+}
+
+
+
+header{
+    background-image: url(IMAGENS/TEXTURAS/tipos-de-madeira.jpg);
+    /*background-color: rgba(56, 38, 21, 0.57);*/
+    max-width: 100%;
+    height: 151px;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ text-align: center;
+}
+
+
+#LOGO{
+    margin-top: 1%;
+    margin-left: 7%;
+    width: 270px;
+    height:130px;
+    float: left;
+    
+}
+
+nav{ 
+    max-width: 2560px;
+    width: 100%;
+    height: 40px;
+    box-shadow: 1px 0px 1px 1px white; 
+    z-index: 16;    
+}
+
+
+.linq{
+  font-family: Helvetica sans-serif;
+    font-size: 17px;    
+    text-decoration: none;
+   
+    
+}
+
+.linq li{
+    margin-left: 10px;
+}
+
+.linq li a{
+    color: white;
+}
+
+.linq li a:hover{
+    color: saddlebrown;
+}
+#cxPerfil2 li{
+    background:gray;
+}
+#cxPerfil2 li button, #cxPerfil li a{
+  color:black;
+}
+
+#cxPerfil2 li:hover{
+    background:saddlebrown;
+    color:white;
+}
+#cxPerfil2 li button:hover, #cxPerfil2 li a:hover{
+  color:white;
+}
+
+.border3{
+    width: 135px;
+    height: 1px;
+    background: white;
+    margin: 2px auto;
+}
+
+@media only screen and (max-width: 2560px){
+.linq li a{
+    margin-left: 50px;
+}
+#char{
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 5px black;
+    margin-bottom: 10px;
+    border-radius: 50%;
+
+}
+#char2{
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 5px #62ba62;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+    
+#ACESSO{
+    float: right;
+    margin-right: 7%;
+    margin-top: 3%;
+    font-size: 14px;
+  font-family: Helvetica sans-serif;
+    
+}
+placeholder{
+    color:Red;    
+    }
+    
+input{
+    width: 60%;
+    height: 19px;
+    border-radius: 20px;
+    background-color: #ffe0b6;
+}    
+ 
+}
+    
+ @media only screen and (max-width: 1100px){
+.linq li a{
+    margin-left: 20px;
+}
+#char{
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 5px black;
+    margin-bottom: 10px;
+    border-radius: 50%;
+
+}
+#char2{
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 5px #62ba62;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+#ACESSO{
+    float: right;
+    margin-right: 7%;
+    margin-top: 3%;
+    font-size: 14px;
+  font-family: Helvetica sans-serif;
+    
+}
+
+input{
+    width: 60%;
+    height: 19px;
+    border-radius: 20px;
+    background-color: #ffe0b6;
+}     
+
+ul{    
+    font-family: Helvetica sans-serif;
+    text-decoration: none;
+}
+
+#char{
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 5px black;
+    margin-bottom: 10px;
+    border-radius: 50%;
+
+}
+#char2{
+    width: 40px;
+    height: 40px;
+    box-shadow: 1px 1px 10px 5px #62ba62;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+
+#ACESSO{
+    float: right;
+    margin-right: 7%;
+    margin-top:4%;
+    font-size: 14px;
+  font-family: Helvetica sans-serif;
+    
+}
+
+input{
+    width: 60%;
+    height: 19px;
+    border-radius: 20px;
+    background-color: #ffe0b6;
+ }
+
+     #LOGO{
+    margin-top: 1%;
+    margin-left: 7%;
+    width: 150px;
+    height:130px;
+    float: left;
+    
+}
+}
+
+/*=================================================================================*/
+::-webkit-input-placeholder {
+   color: rgba(165, 42, 42, 0.59);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+       color: rgba(165, 42, 42, 0.59);
+
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: rgba(165, 42, 42, 0.59);
+}
+
+:-ms-input-placeholder {  
+   color: rgba(165, 42, 42, 0.59);
+}
+nav a:hover{
+    text-decoration: none;
+    color: #bc9269;
+}
+
+form a{
+    
+   
+    color: white;
+}
+
+form a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+footer { 
+  text-align: center;            
+  margin-top:auto;
+  height: 5%;   
+}
+#rodape{
+    background-image: url(IMAGENS/fundo-madeira.jpg);
+    color: white;
+}
+
+/*====================== PÁGINA O_ESTUDIO ==================================*/
+#places{
+    width: 100%;
+    color: white;
+   
+}
+
+#places p{
+    width: 950px;
+    color: white;
+    text-align: justify;
+}
+
+#places h1{
+    color: white;
+    text-align: center;
+    font-family: 'Caviar Dreams';
+    
+}
+
+
+#img1{
+    box-shadow:5px 5px 30px 0px #717171; 
+    float: left;
+    margin: 0px 5% 0px 0px;
+    width: 375px;
+    height: 300px;
+    border-radius: 20px 20px 20px 20px;
+}
+#img2{
+    box-shadow:5px 5px 30px 0px #717171; 
+    float: right;
+    margin: 0px 5% 0px 5%;
+    width: 350px;
+    height: 250px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+#img3{
+    box-shadow:5px 5px 30px 0px #717171; 
+    float: left;
+    margin: 0px 5% 0px 0px;
+    margin-left: 5%;
+    width: 350px;
+    height: 250px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+
+.box1{
+text-align: center;
+ width: 1000px;
+ height: 300px;
+ margin:3%;
+ margin-left: 5%;    
+    
+}
+.box2{
+    width: 1000px;
+    height: 300px;
+    margin:5%;    
+    margin-left: 5%;
+    display: flex;
+    
+}
+.textobox2{
+    margin-top:8%;
+    text-align: center
+}
+}
+.box3{
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    margin:3%;
+}
+
+.textobox3{padding: 4%;
+    margin-left: 50px;
+}
+
+
+/*=======================PÁGINA CADASTRO=====================================*/
+#txt{color:red;}
+
+/*=======================PÁGINA  CONTATOS=====================================*/
+.contato{
+    color:white;
+    margin-top: 5%;
+    font-family: 'Caviar Dreams';
+    float: right;
+    width: 45%;
+    height: 600px;
+    
+
+}
+.contato2{
+    color:white;
+    margin-top: 5%;
+    font-family: 'Caviar Dreams';
+    float: left;
+    width: 45%;
+    height: 350px;
+    border-radius: 30px 30px 30px 30px;
+    background: black;
+    
+}
+
+.contato h1,.contato2 h1{
+    font-size: 20px;
+    color: white;
+    font-family: 'Caviar Dreams';
+    margin-top:10px;
+
+}
+
+
+.contato ul,.contato2 ul{
+list-style-type: none;
+}
+.contato ul li, .contato2 ul li{
+        text-decoration: none;
+        color:indianred;
+        font-size: 15px;
+}
+
+
+.contato span,.contato2 span{
+    font-size: 14px; 
+    margin-left: -3%;
+    
+}
+
+.hl1 {
+    box-sizing: border-box;
+    border-top: 3px solid rgb(255, 255, 255);
+    height: 0;
+    margin-top: 2%;
+    margin-bottom: 5%
+
+}
+
+.hl2 {
+    box-sizing: border-box;
+    border-top: 3px solid rgb(255, 255, 255);
+    height: 0;
+    margin-top: 2%;
+    margin-bottom: 5%
+}
+#ctn{
+    margin-top: -3%;
+}
+#ctt{
+    margin-top: ;
+    margin-right: 34%;
+}
+#ctn a{
+    color:white;
+}
+#ctn a:hover{
+    color:saddlebrown;
+    text-decoration: none;
+}
+
+
+
+#ctn h3, #chat h3{
+    color: #fffefe;
+    font-size: 17px;
+}
+#chat{
+    margin-top: 0.4%;
+}
+
+/*=======================EVENTOS=====================================*/
+.card eventoimg1{
+    width: 300px;
+    height: 400px;
+}
+.evento{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items:;
+    min-height: 100vh;
+    background: #000
+}
+.card{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background: #262626;
+    overflow: hidden;
+    margin-top: 5%;
+    border-radius: 5%;
+    margin-left: 4%;
+}
+
+.card input,.toggle{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    bottom: 20px;
+    right: 20px;
+    outline: none;
+    z-index: 10;
+}
+.card input{
+    opacity:0;
+}
+.toggle{
+    pointer-events: none;
+    border-radius: 50%;
+    background-color: #fff;
+    transition: 0.5s;
+    text-align: center;
+    line-height: 120%;
+    font-size: 42px;
+    box-shadow:  0 0 0 0px #404040;
+}
+.card input:checked ~ .toggle{
+    box-shadow: 0 0 0 500px gray;
+    transform: rotate(225deg);
+}
+.imgBx,.detalhes{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.detalhes{
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 11;
+    pointer-events: none;
+    transition: 0.5s;
+    opacity: 0;
+}
+.detalhes p{
+    text-align: justify;
+    color: white;
+}
+
+#TituloEvento{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    font-family: 'Caviar Dreams', sans-serif;
+    font-size: 35px;
+    
+}
+
+.card input:checked ~.detalhes{
+    opacity: 1;
+    transition-delay: 0.3s;
+}
+.dadodetalhe1,.dadodetalhe2,.dadodetalhe3{margin-top: 6%;
+    display:block;
+}
+
+.mod{font-weight:800;
+    color:#1bd8c2;
+}
+
+.titulodados{text-align:center;
+    border-bottom: 1px solid;
+    color:white;
+} 
+
+/* ======================================== PÁGINA GALERIA DE FOTOS ============================*/
+.gallery-container h1 {
+    text-align: center;
+    margin-top:0px;
+    font-family:'Caviar Dreams';
+    color: white;
+    z-index: 10;
+    font-size: 35px;
+    
+}
+
+.tz-gallery {
+    padding: 40px;
+}
+
+.tz-gallery .thumbnail {
+    padding: 0;
+    margin-bottom: 30px;
+    border: none;
+    transition: 0.15s ease-in-out;
+}
+
+.tz-gallery .thumbnail:hover {
+    transform: translateY(-10px) scale(1.02);
+}
+
+.tz-gallery .lightbox img {
+    border-radius: 4px 4px 0 0;
+}
+
+.tz-gallery .caption h3 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0;
+    color: white;
+}
+
+.thumbnail img{
+    width: 90%;
+    height: 150px;
+    margin-top: 0%;
+    border-radius: 4px 4px 4px 4px;
+
+}
+
+.tz-gallery .caption p {
+    font-size: 12px;
+    color: rgba(6, 179, 222, 0.99);
+    margin: 0;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important; 
+}
+/*======================ANIMACAO=======================================================*/
+
+.anime{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+}
+.SET{
+    position: absolute;
+    width: 95%;
+    height: 400px;
+    top: 0;
+    left: 0;
+}
+#primeira{
+    height: 200px;
+    width:  300px;
+    
+}
+#segunda{
+    height: 200px;
+    width:  300px;
+    
+}
+#terceira{
+    height: 200px;
+    width:  200px;
+    
+}
+#quarta{
+    height: 200px;
+    width:  200px;
+    
+}
+#quinta{
+    height: 200px;
+    width:  200px;
+    
+}
+#sexta{
+    height: 200px;
+    width:  200px;
+    
+}
+#setima{
+    height: 200px;
+    width:  200px;
+    
+}
+#oitava{
+    height: 200px;
+    width:  200px;
+    
+}
+
+.SET div{
+    position: absolute;
+    display: block;
+}
+
+.SET div:nth-child(1)
+{
+    left: 20%;
+    animation: animate 15s linear infinite;
+    animation-delay: -7s;
+}
+.SET div:nth-child(2)
+{
+    left: 50%;
+    animation: animate 20s linear infinite;
+    animation-delay: -5s;
+}
+.SET div:nth-child(3)
+{
+    left: 70%;
+    animation: animate 25s linear infinite;
+}
+.SET div:nth-child(4)
+{
+    left: 0%;
+    animation: animate 15s linear infinite;
+    animation-delay: -5s;
+}
+.SET div:nth-child(5)
+{
+    left: 85%;
+    animation: animate 18s linear infinite;
+    animation-delay: -10s;
+}
+.SET div:nth-child(6)
+{
+    left: 0%;
+    animation: animate 12s linear infinite;
+}
+.SET div:nth-child(7)
+{
+    left: 15%;
+    animation: animate 14s linear infinite;
+}
+.SET div:nth-child(8)
+{
+    left: 6%;
+    animation: animate 15s linear infinite;
+}
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+        top: -10%;
+        transform: translateX(20px) rotate(0deg);
+    }
+    10%
+    {
+        opacity: 1%;
+    }
+    20%
+    {
+        transform: translateX(-20px) rotate(45deg);
+    }
+    40%
+    {
+        transform: translateX(-20px) rotate(90deg);
+    }
+    60%
+    {
+        transform: translateX(20px) rotate(135deg);
+    }
+    80%{
+        transform: translateX(20px) rotate(180deg);
+    }
+    100%
+    {
+        top: 110%;
+        transform: translateX(20px) rotate(200deg);
+    }
+}
+
+/*=================================PAGINA SERVIÇOS============================================*/
+#servico{
+    width: 100%;
+    color: white;
+}
+#servico2{
+    display: flex;
+    height: 400px;
+    text-align: center;   
+
+}
+
+#se{
+    width: 80%;
+    
+    
+}
+
+.subtituloservico{
+    padding-bottom: 7%;
+}
+
+#servico p{
+    color: white;
+    text-align: justify;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+#servico h1{
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+    font-family: 'Caviar Dreams';
+    margin-bottom: 5%;
+    
+}
+
+#imgs{
+/*     box-shadow:5px 5px 30px 0px #717171; 
+     */    width: 300px;
+    height: 230px;
+    border-radius: 20px 20px 20px 20px;
+    vertical-align: middle;
+    
+
+}
+#imgs1{
+/*     box-shadow:5px 5px 30px 0px #717171; 
+     */    width: 300px;
+    height: 230px;
+    border-radius: 20px 20px 20px 20px;
+    vertical-align: middle;   
+
+}
+#imgs2{
+/*     box-shadow:5px 5px 30px 0px #717171; 
+     */    width: 300px;
+    height: 230px;
+    border-radius: 20px 20px 20px 20px;
+vertical-align: middle;   
+
+}
+
+.s1{
+ text-align: ;
+ width: 350px;
+ height: 340px;
+    
+}
+.s2{
+    text-align:;
+    width: 350px;
+    height: 340px;   
+
+}
+.s3{
+    text-align:;
+    width: 350px;
+    height: 340px;
+}
+#servico2 ul li{
+    list-style-type: none;
+    color: white;
+}
+.totalservico{
+    height: 800px;
+}
+
+#TituloEvento {color:deeppink;}
+
+#localizacaotexto {margin-left: 10px;}
+
+#telefonetexto {margin-left: 16px;}
+
+span {font-weight: bold;}
+
+/*============================PÁGINA MÚSICA=============================================*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat",sans-serif;
+}
+.teste{
+    padding: 40px 0;
+    color: #434343;
+    text-align: center;
+    margin-top: 1%;
+}
+.inner{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px; 
+}
+.inner h1{
+        font-family: 'Caviar Dreams';
+     color:white;
+
+}
+
+.border{
+    width: 160px;
+    height: 5px;
+    background: #6ab04c;
+    margin: 26px auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.col{
+    flex: 33.33%;
+    max-width: 33.33%;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.test{
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 50px 50px 50px 50px;
+}
+.test img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+/* .estrela{
+    color:#f500ff;
+    margin-bottom: 20px;
+    font-size: 13px;
+    margin-left: 40%;
+}
+.estrela2{
+    color:gray;
+    margin-bottom: 20px;
+    font-size: 13px;
+    margin-left: 75%;
+} */
+.test p{
+    text-align: justify;
+    text-decoration: none;
+    font-size: 13px;
+    color: rgba(85, 74, 74, 0.76);
+}
+.test a b{
+    float: left;
+    font-size: 12px;
+    color: black;
+    margin-left: 2%
+}
+.test b:hover{
+    color: red;
+}
+.test i{
+    float: left;
+    margin-right: px;
+}
+
+.oculta { display:none;}
+.oculta2 { display:none; }
+.oculta3 { display:none; }
+
+@media screen and (max-width:960px){
+    .col{
+        flex:100%;
+        max-width: 80%;
+    }
+}
+@media screen and (max-width:600px){
+    .col{
+        flex:100%;
+        max-width: 100%;
+    }
+}
+/*============================BOTAO===================================================*/
+.center{
+    position: absolute;
+    margin-top: -0.9%;
+    margin-left: 10%;
+    transform: translate(-50%,-50%);
+    z-index: 16;
+}
+@media only screen and (max-width: 1440px){
+    .center{
+    position: absolute;
+    margin-top: -1.2%;
+    margin-left: 10%;}
+}
+
+.center input[type="checkbox"]{
+    position: relative;
+    width: 120px;
+    height: 25px;
+    -webkit-appearance:none;
+    background-image: linear-gradient(0deg,#ff0000,white);
+    outline: none;
+    border-radius: 20px;
+    box-shadow: 0 0 0 4px #353535, 0 0 0 5px #3e3e3e,inset 0 0 10px rgba(0,0,0,1), 0 5px 20px rgba(0,0,0,.5), inset 0 0 15px rgba(0,0,0,.2);
+}
+
+
+
+.center input:checked[type="checkbox"]{
+    background: linear-gradient(0deg,#13ff37,white);
+}
+
+.center input[type="checkbox"]:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 80px;
+    height: 25px;
+    background: linear-gradient(0deg,#000,#6b6b6b);
+    border-radius: 20px;
+    box-shadow: 0 0 0 1px #232323;
+    transform: scale(.98,.96);
+    transition: .5s;
+}
+.center input:checked[type="checkbox"]:before{
+    left: 40px;
+}
+.center input[type="checkbox"]:after{
+    content: '';
+    position: absolute;
+    top: calc(50% - 2px);
+    left: 65px;
+    width: 4px;
+    height: 4px;
+    background: linear-gradient(0deg,#ff0000,white);
+    border-radius: 50%;
+    transition: .5s;
+}
+.center input:checked[type="checkbox"]:after{
+    background: #13ff37;
+    left: 105px;
+    box-shadow:  0 0 5px #13ff37,  0 0 15px #13ff37;
+}
+/*==============================PAGINA LOG=========================================================*/
+#tabela{
+    background: white;
+    text-align: center;
+
+}
+
+
+#tabela th{
+    background: #991f0e;
+    color: white;
+
+}
+#totaltab{
+    
+    height: 969px;
+}
+#totaltab h2{
+    color:white;
+    font-family: 'Caviar Dreams';
+    text-align: center;
+}
+
+
+#totaltab tr:hover{
+    background: gray;
+    color: white;
+}
+
+#totaltab a:hover{
+    text-decoration: none;
+}
+.border2{
+    width: 290px;
+    height: 5px;
+    background: black;
+    margin: 26px auto;
+}
+.acao ul{
+    display: flex;
+    margin: 0;
+    
+}
+.acao ul li{
+    list-style: none;
+   
+}
+.acao ul li a{
+  
+        display: inline-block;
+	width: 40px;
+	
+	background-color:  #33383b;
+	border-radius: 10px;
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+        margin: 0px 4px ;
+        
+
+}
+
+.acao ul li a.link1:hover{
+    background-color:#00cccc;
+   
+}
+.acao ul li a.link2:hover{
+    background-color: #ff9900;
+   
+}
+.acao ul li a.link3:hover{
+    background-color:#ff0000;
+}
+
+
+.editar a{
+  
+        display: inline-block;
+	width: 40px;
+	
+	background-color:  #33383b;
+	border-radius: 10px;
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+        margin: 0px 4px ;
+}
+.editar a.link3:hover{
+    background-color:#ff0000;
+}
+        
+
+
+/*=====================BOX CHAT=======================================================*/
+#boxchat img{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-top:10%;
+    
+}
+#boxchat p{
+    height: 75px;
+    width: 200px;
+    float: right;
+    margin-top:10%;
+    font-size: 12px;
+    background: white;
+    border-radius: 15px 15px 0px 15px;
+    padding: 4px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+@media only screen and (max-width: 1440px){
+    #boxchat img{
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-top:21.6%;
+    z-index: 5;
+}
+    #boxchat p{
+    height: 75px;
+    width: 200px;
+    float: right;
+    margin-top:21.6%;
+    font-size: 12px;
+    background: white;
+    border-radius: 15px 15px 0px 15px;
+    padding: 4px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+}
+/*======================Alterar Dados=====================*/
+#attsenha{
+    display: flex;
+    margin-right: 65%;
+}
+#attsenha2{
+    display: none;
+}
